@@ -1,0 +1,12 @@
+# Mercuds IDS - Network Monitor Dependencies
+
+# Packet capture and analysis
+scapy>=2.5.0
+
+# Terminal UI
+rich>=13.0.0
+
+# Future expansion
+# numpy>=1.24.0        # For ML-based detection
+# scikit-learn>=1.3.0  # For anomaly detection models
+# requests>=2.31.0     # For threat intel API integration
